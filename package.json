@@ -1,0 +1,39 @@
+{
+  "name": "dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "apexcharts": "^3.19.0",
+    "axios": "^0.19.2",
+    "core-js": "^3.6.4",
+    "dotenv": "^8.2.0",
+    "lodash": "^4.17.15",
+    "simple-vue-validator": "^0.16.0",
+    "vue": "^2.6.11",
+    "vue-apexcharts": "^1.5.3",
+    "vue-multiselect": "^2.1.6",
+    "vue-paginate-al": "^1.1.6",
+    "vue-router": "^3.1.5",
+    "vue-search-select": "^2.9.3",
+    "vue-socket.io": "^3.0.10",
+    "vue-sweetalert2": "^3.0.6",
+    "vue-toasted": "^1.1.28",
+    "vuejs-datepicker": "^1.6.2",
+    "vuex": "^3.1.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.2.0",
+    "@vue/cli-plugin-router": "~4.2.0",
+    "@vue/cli-plugin-vuex": "~4.2.0",
+    "@vue/cli-service": "~4.2.0",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}
